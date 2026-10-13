@@ -1,5 +1,7 @@
 
-![Masterhead](images/b3botx.gif) 
+<p align="center">
+    <img src="images/b3botx.gif" alt="MasterHead" width="100%">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
