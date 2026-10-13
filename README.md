@@ -1,15 +1,35 @@
 
+<!-- <p align="center">
+    <img src="images/download.jpg" alt="MasterHead" width="100%">
+</p> -->
+<img src="images/download.jpg" alt="MasterHead" width="100%">
+<h2 align="center" style="font-family:sans-serif; color:pink">Hi! I'm Melody</h2>
 <p align="center">
-    <img src="images/b3botx.gif" alt="MasterHead" width="100%">
+<img a href="linkedin.com/melodia-nur-insani" src="https://img.shields.io/badge/LinkedIn-FFAED7?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img a href="github.com/tehsisrigulabatu" src="https://img.shields.io/badge/GitHub-FFAED7?style=for-the-badge&logo=github&logoColor=white" />
+<img a href="github.com/tehsisrigulabatu" src="https://img.shields.io/badge/Spotify-FFAED7?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
+<img align="right" alt="myMelody" width="200px" src="images/b3bqao.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/tehsisrigulabatu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tehsisrigulabatu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/melodia-nur-insani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melodia-nur-insani" height="30" width="40" /></a>
-<a href="https://instagram.com/meosccle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meosccle" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
+- 💬 Ask me about **python, data science, and machine learning**
 
+- 💬 Fun fact **I am a left-handed and I love sleep (psstt. . . ! I could sleep for 2 days straight if there's no deadline)**
+
+
+
+<h4 align="left">Languages and Tools:</h3>
+<img src="https://img.shields.io/badge/Python-FFAED7?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-FFAED7?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FFAED7?style=for-the-badge&logo=Streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-FFAED7?style=for-the-badge&logo=figma&logoColor=white" />
+
+
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tehsisrigulabatu/tehsisrigulabatu/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tehsisrigulabatu/tehsisrigulabatu/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tehsisrigulabatu/tehsisrigulabatu/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
