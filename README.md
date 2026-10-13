@@ -4,12 +4,19 @@
 <img src="images/download.jpg" alt="MasterHead" width="100%">
 <h2 align="center" style="font-family:sans-serif; color:pink">HellOo! I am Melody 👩🏻‍💻💭</h2>
 <p align="center">
-<img a href="linkedin.com/melodia-nur-insani" src="https://img.shields.io/badge/LinkedIn-FFAED7?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img a href="github.com/tehsisrigulabatu" src="https://img.shields.io/badge/GitHub-FFAED7?style=for-the-badge&logo=github&logoColor=white" />
-<img a href="github.com/tehsisrigulabatu" src="https://img.shields.io/badge/Spotify-FFAED7?style=for-the-badge&logo=spotify&logoColor=white" />
+<a href="https://linkedin.com/melodia-nur-insani">
+  <img src="https://img.shields.io/badge/LinkedIn-FFAED7?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub">
+</a>
+<a href="https://github.com/tehsisrigulabatu">
+  <img src="https://img.shields.io/badge/GitHub-FFAED7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://open.spotify.com/user/31e4bhce4udbiuswdipd66vurguq?si=ngMcRnI2RH6cTVu7Z5rXzQ&utm_source=copy-link">
+  <img src="https://img.shields.io/badge/Spotify-FFAED7?style=for-the-badge&logo=spotify&logoColor=white" alt="GitHub">
+</a>
 </p>
-<img align="right" alt="myMelody" width="200px" src="images/b3bqao.gif">
 
+
+<img align="right" alt="myMelody" width="200px" src="images/b3bqao.gif">
 
 - 🔬 I'm currently study in **Institut Teknologi Sepuluh Nopember**, majoring in _Artificial Intelligence Engineering_
 - 🖇️ I'm currently learning **Linux Ubuntu, Data Science, Machine Learning, and Deep Learning.**
