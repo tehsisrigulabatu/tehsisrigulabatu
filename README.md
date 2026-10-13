@@ -1,9 +1,8 @@
-
 <!-- <p align="center">
     <img src="images/download.jpg" alt="MasterHead" width="100%">
 </p> -->
 <img src="images/download.jpg" alt="MasterHead" width="100%">
-<h2 align="center" style="font-family:sans-serif; color:pink">Hi! I'm Melody</h2>
+<h2 align="center" style="font-family:sans-serif; color:pink">HellOo! I am Melody 👩🏻‍💻💭</h2>
 <p align="center">
 <img a href="linkedin.com/melodia-nur-insani" src="https://img.shields.io/badge/LinkedIn-FFAED7?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img a href="github.com/tehsisrigulabatu" src="https://img.shields.io/badge/GitHub-FFAED7?style=for-the-badge&logo=github&logoColor=white" />
@@ -12,9 +11,10 @@
 <img align="right" alt="myMelody" width="200px" src="images/b3bqao.gif">
 
 
-- 💬 Ask me about **python, data science, and machine learning**
-
-- 💬 Fun fact **I am a left-handed and I love sleep (psstt. . . ! I could sleep for 2 days straight if there's no deadline)**
+- 🔬 I'm currently study in **Institut Teknologi Sepuluh Nopember**, majoring in _Artificial Intelligence Engineering_
+- 🖇️ I'm currently learning **Linux Ubuntu, Data Science, Machine Learning, and Deep Learning.**
+- 💬 I'm opened for discussion about _math, code, problem-solving-things, design,_ and any other _scientific topics!_
+- 🍥 Fun fact **I am a left-handed and I love sleep (psstt. . . ! I could sleep for 2 days straight if there's no deadline)**
 
 
 
