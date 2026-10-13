@@ -19,12 +19,12 @@
 
 
 <h4 align="left">Languages and Tools:</h3>
+<p align=left>
 <img src="https://img.shields.io/badge/Python-FFAED7?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-FFAED7?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FFAED7?style=for-the-badge&logo=Streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-FFAED7?style=for-the-badge&logo=figma&logoColor=white" />
-
-
+</p>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tehsisrigulabatu/tehsisrigulabatu/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
