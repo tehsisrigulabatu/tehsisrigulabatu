@@ -4,7 +4,7 @@
 <img src="images/download.jpg" alt="MasterHead" width="100%">
 <h2 align="center" style="font-family:sans-serif; color:pink">HellOo! I am Melody 👩🏻‍💻💭</h2>
 <p align="center">
-<a href="https://linkedin.com/melodia-nur-insani">
+<a href="https://www.linkedin.com/in/melodia-nur-insani">
   <img src="https://img.shields.io/badge/LinkedIn-FFAED7?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub">
 </a>
 <a href="https://github.com/tehsisrigulabatu">
